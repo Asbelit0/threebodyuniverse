@@ -1,6 +1,6 @@
 # threebodyuniverse
 
-## Sitio dedicado a los fanáticos de Liu Cixin
+## Sitio dedicado a los fición de la trilogía de Liu Cixin.
 
 ### Sitio en construcción
 
